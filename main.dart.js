@@ -60405,14 +60405,14 @@ Y.a3t.prototype={
 $0:function(){var s=0,r=P.a7(t.P)
 var $async$$0=P.a1(function(a,b){if(a===1)return P.a4(b,r)
 while(true)switch(s){case 0:s=5
-return P.ab(T.a8l("https://console.firebase.com"),$async$$0)
+return P.ab(T.a8l("https://console.firebase.google.com"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return P.ab(T.a8V("https://console.firebase.com"),$async$$0)
+return P.ab(T.a8V("https://console.firebase.google.com"),$async$$0)
 case 6:s=3
 break
-case 4:throw H.a("Could not launch https://console.firebase.com")
+case 4:throw H.a("Could not launch https://console.firebase.google.com")
 case 3:return P.a5(null,r)}})
 return P.a6($async$$0,r)},
 $S:106}
